@@ -1,0 +1,34 @@
+{
+  "ringWeights": [
+    0.5,
+    0.5,
+    0.5,
+    0.5,
+    1
+  ],
+  "ringColors": [
+    "#ffefd4",
+    "#f6e7c6",
+    "#eee0b9",
+    "#e6d1ad",
+    "#dcc59b"
+  ],
+  "ringBorderColor": "#a38f72",
+  "ringBorderTransparent": false,
+  "ringLabelSize": 14,
+  "ringLabelColor": "#2a2d41",
+  "blipColors": [
+    "#2f855a",
+    "#2b6cb0",
+    "#d97706",
+    "#c53030",
+    "#6b46c1"
+  ],
+  "blipMaxChars": 15,
+  "blipTextSize": 8,
+  "blipTextColor": "#8b834d",
+  "minDistance": 32,
+  "legendSize": 15,
+  "legendColor": "",
+  "legendDistance": 390
+}
